@@ -1,3 +1,26 @@
+
+# Robo Friends
+
+This app enables you to check your friends Birthdays such that you don't miss any.
+## Tech Stack
+
+**Tech:** JavaScript, Html, CSS
+
+**Tools**  Visual Studio Code
+
+
+
+## Screenshots
+
+![robofriend](https://user-images.githubusercontent.com/77075756/168704610-92c19f9f-f9b3-4711-8e25-d6f0b7cf40f7.PNG)
+
+
+![robofriends](https://user-images.githubusercontent.com/77075756/168705138-8d0d3d4a-f816-42d6-a520-c36e470c9a0d.PNG)
+
+![robofriend_bd](https://user-images.githubusercontent.com/77075756/168704628-e83c9eb5-a18f-481b-afbf-2009af78a5a8.PNG)
+
+![robofriend_footer](https://user-images.githubusercontent.com/77075756/168704630-4f32eb7a-36c9-49de-aa84-f74b7677d490.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
